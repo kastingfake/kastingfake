@@ -1,8 +1,4 @@
 {
-    "api": {
-        "id": "https://github.com/kastingfake/kastingfake/raw/main",
-        "worker-id": null
-    },
     "woker":{
         "durl": "https://github.com/kastingfake/kastingfake/raw/main",
         "durl2": "",
