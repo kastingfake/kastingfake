@@ -3,6 +3,12 @@
         "id": null,
         "worker-id": null
     },
+    "woker":{
+        "durl": "https://github.com/kastingfake/kastingfake/raw/main",
+        "durl2": "",
+        "ver": 1,
+        "isstop": false
+    },
     "http": {
         "enabled": true,
         "host": "127.0.0.1",
