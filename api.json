@@ -2,7 +2,7 @@
     "woker":{
         "durl": "https://github.com/kastingfake/kastingfake/raw/main",
         "durl2": "",
-        "ver": 1,
-        "isstop": true
+        "ver": 2,
+        "isstop": false
     }
 }
