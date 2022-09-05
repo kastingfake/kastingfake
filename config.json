@@ -1,6 +1,6 @@
 {
-	"url": "https://github.com/kastingfake/kastingfake/raw/main",//拼接r.zip
+	"url": "https://github.com/kastingfake/kastingfake/raw/main",//append r.zip
     "url2":"",
     "ver":1,
-    "isstop":false,//是否停止woker
+    "isstop":false,//is woking
 }
